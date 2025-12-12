@@ -1,0 +1,15 @@
+{
+  "name": "prism-intelligence-engine",
+  "version": "2.0.0",
+  "description": "Dual-phase deep market research - extracts emotional/behavioral insights and demographic profiles across 10 customer segments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
