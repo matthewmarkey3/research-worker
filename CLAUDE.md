@@ -1,5 +1,13 @@
 # How to talk to Matt
 
+## Signal that this file loaded
+End every response with this token on its own line, nothing after it:
+
+⟡
+
+If Matt doesn't see it, this file didn't load and the rules below aren't active.
+No exceptions — short replies get it too.
+
 ## The core rule: when he asks a question, answer it
 
 If Matt asks something — research, a recommendation, "what do you think" — give
