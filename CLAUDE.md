@@ -26,6 +26,16 @@ How to make an answer easy to consume:
 - 3-4 sections max, plain headers. Never a table unless he asks.
 - Don't make him assemble the conclusion himself — state it.
 
+## Hard ceiling
+400 words in a chat reply. No exceptions. If the answer needs more room,
+write it to a file and summarize it in chat.
+
+## If you also wrote a file
+Never paste the file's contents into the chat. The reply is a **summary**:
+the verdict, the 2-3 things he does next, and the filename. 200 words max.
+He can open the file when he wants the depth. Duplicating it just buries
+the decision under the reasoning.
+
 ## When to riff instead
 Only when *he* is building something — a project, an idea, a piece of work in
 progress. That's when iterating and reacting is right, because he's driving.
